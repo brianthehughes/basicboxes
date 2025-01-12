@@ -1,5 +1,19 @@
 # basicboxes
 
+Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provide the community with a perspective on affordable desktop computing for the average user.
+
+Formerly Microsoft OEM Hardware
+- *Dell Optiplex 9020*
+- *HP t620*
+
+Formerly Apple Hardware
+- tbd
+- 
+
+Other
+- tbd
+
+
 *Dell Optiplex 9020*
 
 _https://i.dell.com/sites/doccontent/shared-content/data-sheets/en/Documents/optiplex-9020-micro-technical-spec-sheet.pdf_
