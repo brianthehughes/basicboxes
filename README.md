@@ -2,16 +2,37 @@
 
 Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provide the community with a perspective on affordable desktop computing for the average user.
 
-Formerly Microsoft OEM Hardware
-- *Dell Optiplex 9020*
-- *HP t620*
+Source - Facebook Marketplace
 
-Formerly Apple Hardware
-- tbd
+Desktop Basic Box (BYOP - bring your own peripherals)
+- *Dell Optiplex 9020* - $40 ($120/3)
+- *HP t620* - $30
+
+Destop Box (JNKM - just need keyboard mouse / junk mac
+- *iMac 24" Early 2009* - $49
+
+Laptop Basic 
+- Lenovo xyz
 - 
 
-Other
-- tbd
+Examples & Samples
+
+Mini / Small Desktop
+- Intel NUC
+- Dell 3040, 9020
+
+Tower Desktop
+- Mac Pro
+- Dell Precision
+
+Laptop / AIO
+- hp 520-1032
+- iMac
+
+special consideration 
+
+- virtual box 
+
 
 
 *Dell Optiplex 9020*
@@ -52,6 +73,23 @@ Hard Drives
 Supports Hybrid, Opal SED FIPS, and Solid State Drive and M.2 Solid State Drive (Micro)
 RAID 0 & 1 support on select configurations (MT & SFF only)
 No Hard Drive – Supports Dell Cloud Desktop diskless option
+```
+
+*iMac 24" Early 2009
+https://support.apple.com/en-ca/112427
+
+```
+    Processor and memory
+    2.66GHz, 2.93GHz, or 3.06GHz Intel Core 2 Duo processor
+    6MB shared L2 cache at full processor speed
+    1066MHz frontside bus
+    8GB (two 4GB SO-DIMMs) 1066MHz DDR3 SDRAM; two SO-DIMM slots support up to 8GB
+    
+    Graphics and video support
+    24-inch model with 2.66GHz processor
+    NVIDIA GeForce 9400M graphics processor with 256MB of DDR3 SDRAM shared with main memory
+
+    640GB Serial ATA; 7200 rpm
 ```
 
 
