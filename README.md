@@ -1,15 +1,57 @@
 # basicboxes
 
+What and Who and Why
+
 Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provide the community with a perspective on affordable desktop computing for the average user.
 
-Source - Facebook Marketplace
+How and Where and Why
+
+Source - Facebook Marketplace, Kijiji, Craigslist
+
+Seller Profiles - 
+A - Downsizing - Formerly successful in technical field
+B - Post School Technical - Recently successful
+
+C - Uninformed Seller - business close out / estate sale / landlords
+D - Lost and Found - Questionable Ownership - Stolen - dont have pw!
+
+E - broken batches
+
+time = money
+money = money
+
+$50 = 2 hours
+https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada/
+https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
+
+
+what does this mean? whats my point?
+
+im talking about free hardware
+
+average cost of a dinner out? $50+	
+
+
+
+Anything to HDMI 
+- dp-hdmi $10-15
+- vga-hdmi, dvi-hdmi $10
+- vga + usb audio to hdmi! $20 
+https://www.amazon.ca/Benfei-Input-Adapter-Support-Resolution/dp/B07K14NR8P/
+
+Headphones
+
+
+Case Studies
+
 
 Desktop Basic Box (BYOP - bring your own peripherals)
 - *Dell Optiplex 9020* - $40 ($120/3)
 - *HP t620* - $30
 
-Destop Box (JNKM - just need keyboard mouse / junk mac
+Destop AIO Box (JNKM - just need keyboard mouse / junk mac
 - *iMac 24" Early 2009* - $49
+- hp 520-1032 - $45
 
 Laptop Basic 
 - Lenovo xyz
@@ -32,6 +74,10 @@ Laptop / AIO
 special consideration 
 
 - virtual box 
+
+
+
+Case Study Details and Caveats
 
 
 
@@ -75,6 +121,10 @@ RAID 0 & 1 support on select configurations (MT & SFF only)
 No Hard Drive – Supports Dell Cloud Desktop diskless option
 ```
 
+max ram!
+
+
+
 *iMac 24" Early 2009
 https://support.apple.com/en-ca/112427
 
@@ -90,6 +140,11 @@ https://support.apple.com/en-ca/112427
     NVIDIA GeForce 9400M graphics processor with 256MB of DDR3 SDRAM shared with main memory
 
     640GB Serial ATA; 7200 rpm
+
+
+sound
+wifi
+
 ```
 
 
@@ -108,6 +163,26 @@ support.
 - New mSATA SSD (minimum 16GB) boot drive and M.26
 - SSD secondary drive options for enhanced performance, flexibility, and longevity2
 ```
+
+16gb hd to start 
+add m2 or usb storage details
+
+limitations
+
+gaming - no
+multi tasking - stream content AND what? - be serious
+
+
+Go further - Homelab?
+
+Planning for shared resources
+- Laptop/Micro PC common RAM 
+- Laptop SSDs
+
+Network management
+Media Services
+Storage Services
+JBOC cluster compute? 
 
 
 Benchmarking
