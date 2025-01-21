@@ -54,9 +54,10 @@ Headphones
 Case Studies
 
 
-Desktop Basic Boxes (BYOP - bring your own peripherals)
+Desktop Micro
 - *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658
 - *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc
+
 Desktop Mid-Full
 - *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37
 - *ThinCentre M Series* - $7 
@@ -64,7 +65,7 @@ Desktop Mid-Full
 
 Destop AIO Box (JNKM - just need keyboard mouse / junk mac
 - *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92
-- hp 520-1032 - $45
+- hp 520-1032 - $45 - https://bsd-hardware.info/?probe=f4368ec81a
 
 Laptop Basic 
 - Lenovo ThinkPad Edge E531 - $50 - https://bsd-hardware.info/?probe=abbd058fa0
