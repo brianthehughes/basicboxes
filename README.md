@@ -15,7 +15,7 @@ _**What are valued use cases?**_
 
 **Sources - How and Where and Why**
 
-_**Social Markets - Facebook Marketplace, Kijiji, Craigslist**_
+_**Social Markets - Facebook Marketplace, Kijiji, Craigslist, eBay**_
 
 _Seller Profiles_
 - A - Downsizing - Formerly successful in technical field
