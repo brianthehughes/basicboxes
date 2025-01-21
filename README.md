@@ -49,7 +49,7 @@ Desktop Basic Boxes (BYOP - bring your own peripherals)
 - *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658
 - *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc
 Desktop Mid-Full
-- *Dell Optplex 780* - $7
+- *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37
 - *ThinCentre M Series* - $7 
 - *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf
 
