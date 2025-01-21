@@ -67,7 +67,7 @@ Destop AIO Box (JNKM - just need keyboard mouse / junk mac
 - hp 520-1032 - $45
 
 Laptop Basic 
-- Lenovo xyz
+- Lenovo ThinkPad Edge E531 - $50 - https://bsd-hardware.info/?probe=abbd058fa0
 - 
 
 Examples & Samples
