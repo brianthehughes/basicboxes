@@ -32,8 +32,8 @@ _**Free Technology**_
 
 Average Income for North America
 
-Canda - https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada/
-Canada & US - https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
+- Canda - https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada
+- Canada & US - https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
 
 Average cost of a dinner out? $50+	
 
