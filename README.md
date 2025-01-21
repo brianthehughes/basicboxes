@@ -54,7 +54,7 @@ Desktop Mid-Full
 - *_Ghost Custom_* - free
 
 Destop AIO Box (JNKM - just need keyboard mouse / junk mac
-- *iMac 24" Early 2009* - $49
+- *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92
 - hp 520-1032 - $45
 
 Laptop Basic 
