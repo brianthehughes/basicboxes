@@ -1,8 +1,17 @@
 # basicboxes
 
-What and Who and Why
+**Basic Boxes**
 
-Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provide the community with a perspective on affordable desktop computing for the average user.
+_**What and Who and Why**_
+
+Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provide the community with a perspective on affordable desktop computing for the average user. 
+
+As technology enrolls itself as the ever-present side-kick to humanity I question to the value of resource heavy entertainment utilization. 
+
+_**What are valued use cases?**_
+
+
+
 
 How and Where and Why
 
@@ -189,7 +198,22 @@ Storage Services
 JBOC cluster compute? 
 
 
-Benchmarking
+_**Appendix B.1**_
 
-Phoronix Test Suite - Benchmark Phoronix Self Test
+**Benchmarking**
 
+- Phoronix Test Suite - Benchmark Phoronix Self Test
+
+
+_**Apprendix A.1**_
+
+**Notes along the way - What we learned**
+
+- Live
+- 
+Quick stop at Live Environments, Live Installers, and the challenge of experiencing a Live OS on Minimum Requirements.
+
+1. Please approach a Live Environment with 200% Minimum Requirement RAM
+2. See #1
+
+(Graphic to explain system resources in a RAMDRIVE driven Live Environment)
