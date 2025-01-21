@@ -48,23 +48,24 @@ Anything to HDMI
 _**Case Studies**_
 
 **Desktop Micro**
-- *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658
-- *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc
+- *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658 - Gfx/Snd/Wi
+- *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc - Gfx/Snd
 
 **Desktop Mid-Full**
-- *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37
+- *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37 - Gfx/Snd/Wi
 - *ThinCentre M Series* - $7 
-- *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf
+- *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf - Gfx
 
 **Destop AIO Box** (JNKM - just need keyboard mouse / junk mac)
-- *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92
-- hp 520-1032 - $45 - https://bsd-hardware.info/?probe=f4368ec81a
+- *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92 - Gfx/Snd
+- hp 520-1032 - $45 - https://bsd-hardware.info/?probe=f4368ec81a - Gfx/Snd
 
-**Laptop Basic **
-- Lenovo ThinkPad Edge E531 - $50 - https://bsd-hardware.info/?probe=abbd058fa0
+**Laptop Basic**
+- Lenovo ThinkPad Edge E531 - $50 - https://bsd-hardware.info/?probe=abbd058fa0 - Gfx/Snd/Wi
 - more tbd
 
 _**Ghost Recommendations**_
+(Working title, area, what are the easiest solid machines, worth it machines?)
 
 Would like to collect a best Laptop, best Micro sets from GhostBSD Community members:
 
@@ -80,11 +81,7 @@ Laptop / AIO
 - hp 520-1032
 - iMac
 
-
-
-Case Study Details and Caveats
-
-
+_**Case Study Details and Caveats**_
 
 *Dell Optiplex 9020*
 
