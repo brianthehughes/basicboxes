@@ -53,7 +53,8 @@ _**Case Studies**_
 
 **Desktop Mid-Full**
 - *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37 - Gfx/Snd
-- *ThinCentre M Series* - $7 
+- *ThinCentre M Series* - $7
+- https://pcsupport.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-m-series-desktops/thinkcentre-m92p/3209/downloads/driver-list/component?name=BIOS%2FUEFI&id=5AC6A815-321D-440E-8833-B07A93E0428C
 - *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf - Gfx
 
 **Destop AIO Box** (JNKM - just need keyboard mouse / junk mac)
@@ -213,3 +214,9 @@ Quick stop at Live Environments, Live Installers, and the challenge of experienc
 2. See #1
 
 (Graphic to explain system resources in a RAMDRIVE driven Live Environment)
+
+_**Appendix A.2**_
+
+https://pcsupport.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-m-series-desktops/thinkcentre-m92p/3209/downloads/driver-list/component?name=BIOS%2FUEFI&id=5AC6A815-321D-440E-8833-B07A93E0428C
+
+
