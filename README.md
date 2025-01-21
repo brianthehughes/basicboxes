@@ -12,10 +12,10 @@ Seller Profiles -
 A - Downsizing - Formerly successful in technical field
 B - Post School Technical - Recently successful
 
-C - Uninformed Seller - business close out / estate sale / landlords
+C - Liquidation / Estate / Uninformed Seller - business close out / estate sale / landlords / third party
 D - Lost and Found - Questionable Ownership - Stolen - dont have pw!
 
-E - broken batches
+E - broken batches and bundle bargains
 
 time = money
 money = money
@@ -45,9 +45,13 @@ Headphones
 Case Studies
 
 
-Desktop Basic Box (BYOP - bring your own peripherals)
+Desktop Basic Boxes (BYOP - bring your own peripherals)
 - *Dell Optiplex 9020* - $40 ($120/3)
 - *HP t620* - $30
+Desktop Mid-Full
+- *Dell Optplex 780* - $7
+- *ThinCentre M Series* - $7 
+- *_Ghost Custom_* - free
 
 Destop AIO Box (JNKM - just need keyboard mouse / junk mac
 - *iMac 24" Early 2009* - $49
