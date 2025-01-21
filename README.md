@@ -13,65 +13,58 @@ _**What are valued use cases?**_
 
 
 
-How and Where and Why
+**Sources - How and Where and Why**
 
-Source - Facebook Marketplace, Kijiji, Craigslist
+_**Social Markets - Facebook Marketplace, Kijiji, Craigslist**_
 
-Seller Profiles - 
-A - Downsizing - Formerly successful in technical field
-B - Post School Technical - Recently successful
+_Seller Profiles_
+- A - Downsizing - Formerly successful in technical field
+- B - Post School Technical - Recently successful
+- C.1 - Liquidation / Estate / Uninformed Seller - business close out / estate sale / landlords / third party
+- C.2 - Broken Batches and Bundle Bargains
+- D - Lost and Found - Questionable Ownership - Stolen - dont have pw!
 
-C - Liquidation / Estate / Uninformed Seller - business close out / estate sale / landlords / third party
-D - Lost and Found - Questionable Ownership - Stolen - dont have pw!
+_**Free Technology**_
+- time = money
+- money = money
 
-E - broken batches and bundle bargains
+- $50 = 2 hours
 
-time = money
-money = money
+Canda - https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada/
+Canada & US - https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
 
-$50 = 2 hours
-https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada/
-https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
+Average cost of a dinner out? $50+	
 
-
-what does this mean? whats my point?
-
-im talking about free hardware
-
-average cost of a dinner out? $50+	
-
-
+_**Peripherals**_
 
 Anything to HDMI 
+
 - dp-hdmi $10-15
 - vga-hdmi, dvi-hdmi $10
 - vga + usb audio to hdmi! $20 
-https://www.amazon.ca/Benfei-Input-Adapter-Support-Resolution/dp/B07K14NR8P/
 
-Headphones
+_**Case Studies**_
 
-
-Case Studies
-
-
-Desktop Micro
+**Desktop Micro**
 - *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658
 - *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc
 
-Desktop Mid-Full
+**Desktop Mid-Full**
 - *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37
 - *ThinCentre M Series* - $7 
 - *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf
 
-Destop AIO Box (JNKM - just need keyboard mouse / junk mac
+**Destop AIO Box** (JNKM - just need keyboard mouse / junk mac)
 - *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92
 - hp 520-1032 - $45 - https://bsd-hardware.info/?probe=f4368ec81a
 
-Laptop Basic 
+**Laptop Basic **
 - Lenovo ThinkPad Edge E531 - $50 - https://bsd-hardware.info/?probe=abbd058fa0
-- 
+- more tbd
 
-Examples & Samples
+_**Ghost Recommendations**_
+
+Would like to collect a best Laptop, best Micro sets from GhostBSD Community members:
 
 Mini / Small Desktop
 - Intel NUC
@@ -84,10 +77,6 @@ Tower Desktop
 Laptop / AIO
 - hp 520-1032
 - iMac
-
-special consideration 
-
-- virtual box 
 
 
 
@@ -197,6 +186,13 @@ Network management
 Media Services
 Storage Services
 JBOC cluster compute? 
+
+_**Appendix C.1**_
+
+**Special Consideration **
+
+- virtual box
+- qemu
 
 
 _**Appendix B.1**_
