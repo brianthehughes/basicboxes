@@ -30,6 +30,8 @@ _**Free Technology**_
 
 - $50 = 2 hours
 
+Average Income for North America
+
 Canda - https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada/
 Canada & US - https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
 
