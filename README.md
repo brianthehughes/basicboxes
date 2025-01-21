@@ -52,7 +52,7 @@ _**Case Studies**_
 - *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc - Gfx/Snd
 
 **Desktop Mid-Full**
-- *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37 - Gfx/Snd/Wi
+- *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37 - Gfx/Snd
 - *ThinCentre M Series* - $7 
 - *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf - Gfx
 
