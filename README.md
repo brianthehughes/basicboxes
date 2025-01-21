@@ -51,7 +51,7 @@ Desktop Basic Boxes (BYOP - bring your own peripherals)
 Desktop Mid-Full
 - *Dell Optplex 780* - $7
 - *ThinCentre M Series* - $7 
-- *_Ghost Custom_* - free
+- *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf
 
 Destop AIO Box (JNKM - just need keyboard mouse / junk mac
 - *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92
