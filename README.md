@@ -1,14 +1,30 @@
 # basicboxes
 
-**Basic Boxes**
+1. Title Slide - **Basic Boxes**
 
-_**What and Who and Why**_
+_Photo - array of equipment_
+
+
+
+
+2. Introduction Slide - **What, Why, and How**
+
+What are we doing? What purpose are we pursuing or fullfilling?
 
 Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provide the community with a perspective on affordable desktop computing for the average user. 
 
-As technology enrolls itself as the ever-present side-kick to humanity I question to the value of resource heavy entertainment utilization. 
+Why does this matter? 
+
+To me.. As technology enrolls itself as the ever-present side-kick to humanity I question to the value of resource heavy entertainment utilization. 
+
+Why does this matter generally?
 
 Can 5++, 10+, 15, 20-, 30-- year old technology support personal, family, and/or business connectivity goals in the encrypted and media rich data stream?
+
+
+
+
+3. Approach / Premise - **5-20 year old technology CAN support connectivity in 2025**
 
 Approach
 
@@ -16,25 +32,13 @@ the browser era
 
 When did display texhnology start to handle 720p smoothly?
 
+The decoding video / streaming / BlockBuster inflection.
 
 
 
 
+5. 
 
-
-
-
-
-Current Household System
-
-google - testing - Prototype for Vsw
-icloud - current Family with Notes
-outlook - for Work 
-
-third party
-
--Thunderbird / Firefox
--Chrome flavour (mad max reference) :)
 
 _**What are valued use cases?**_
 
@@ -43,7 +47,39 @@ _**What are valued use cases?**_
 
 
 
-**Sources - How and Where and Why**
+
+
+
+
+6. Connectivity Profles - Person, Family, Business Actors
+
+
+
+**Personal**
+-chrome/firefox
+google
+- personal - world connectivity - gSuite(s), iCloud
+icloud
+- personal - world connectivity - iCloud
+microsoft
+- for work because
+- edge
+
+Family
+-chrome/firefox
+icloud
+- shared notes, location
+google
+- family calendar, tasks, meet 
+
+Business Actors
+
+
+
+7. Resourcing - **$50 or less**
+
+
+**Resourcing - How and Where and Why**
 
 but not in that order 
 
@@ -69,6 +105,8 @@ _**Free Technology**_
 
 - $50 = 2 hours
 
+
+
 Source, substance, cite:
 
 Average Income for North America
@@ -76,13 +114,11 @@ Average Income for North America
 - Canda - https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada
 - Canada & US - https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
 
-
-
 Average cost of a dinner out? $50+	
 
 
 
-
+8. More for less - **Go the distance, because you're already going**
 
 
 
@@ -102,28 +138,34 @@ always accept, reasonable amounts of:
 
 
 
-
+9. What are we running for $50 or less - **Who's ready for a spreadsheet?**
 
 
 _**Case Studies**_
 
 **Desktop Micro**
-- *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658 - Gfx/Snd/Wi
-- *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc - Gfx/Snd
+- 9.1. *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658 - Gfx/Snd/Wi
+- 9.2 *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc - Gfx/Snd
 
 **Desktop Mid-Full**
-- *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37 - Gfx/Snd
-- *ThinCentre M Series* - $7
+- 9.3. *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37 - Gfx/Snd
+- 9.4. *ThinCentre M Series* - $7
 - https://pcsupport.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-m-series-desktops/thinkcentre-m92p/3209/downloads/driver-list/component?name=BIOS%2FUEFI&id=5AC6A815-321D-440E-8833-B07A93E0428C
-- *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf - Gfx
+- 9.5. *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf - Gfx
 
 **Destop AIO Box** (JNKM - just need keyboard mouse / junk mac)
-- *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92 - Gfx/Snd
-- hp 520-1032 - $45 - https://bsd-hardware.info/?probe=f4368ec81a - Gfx/Snd
+- 9.6. *iMac 24" Early 2009* - $49 - https://bsd-hardware.info/?probe=9360814d92 - Gfx/Snd
+- 9.7. hp 520-1032 - $45 - https://bsd-hardware.info/?probe=f4368ec81a - Gfx/Snd
 
 **Laptop Basic**
-- Lenovo ThinkPad Edge E531 - $50 - https://bsd-hardware.info/?probe=abbd058fa0 - Gfx/Snd/Wi
-- more tbd
+- 9.8. Live Environment - Lenovo ThinkPad Edge E531 - $50 - https://bsd-hardware.info/?probe=abbd058fa0 - Gfx/Snd/Wi
+- 9.9. Live Environment - MacBooPro 2016
+- 9.10. Live Environment - Random Laptop tbd
+- 9.11. 
+
+
+10. Community Imput - **Laptop, Desktop, 'Service-op'**
+
 
 _**Ghost Recommendations**_
 (Working title, area, what are the easiest solid machines, worth it machines?)
@@ -141,6 +183,76 @@ Tower Desktop
 Laptop / AIO
 - hp 520-1032
 - iMac
+
+
+
+
+
+limitations
+
+gaming - no
+multi tasking - stream content AND what? - be serious
+
+
+Go further - Homelab?
+
+Planning for shared resources
+- Laptop/Micro PC common RAM 
+- Laptop SSDs
+
+Network management
+Media Services
+Storage Services
+JBOC cluster compute? 
+
+_**Appendix C.1**_
+
+**Special Consideration **
+
+Virtual / Remote
+
+- virtual box - host multiple on powerful
+- qemu - tbd
+
+- rdp - Tested current 
+- vnc - tbd
+- obs/vlc? - Free the DESKTOP video stream
+
+Appendix C.2
+
+Projects
+
+- vs World - 2025 init tbd - just a calendar app
+- Basic Boxes - 202412 -> current
+- GhostBSDCon 2025 -  202409 -> current
+- sRPM - 2024 - student capstone sponsor
+
+
+_**Appendix B.1**_
+
+**Benchmarking**
+
+- Phoronix Test Suite - Benchmark Phoronix Self Test
+
+
+_**Apprendix A.1**_
+
+**Notes along the way - What we learned**
+
+- Live
+- 
+Quick stop at Live Environments, Live Installers, and the challenge of experiencing a Live OS on Minimum Requirements.
+
+1. Please approach a Live Environment with 200% Minimum Requirement RAM
+2. See #1
+
+(Graphic to explain system resources in a RAMDRIVE driven Live Environment)
+
+_**Appendix A.2**_ - Case Studies
+
+https://pcsupport.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-m-series-desktops/thinkcentre-m92p/3209/downloads/driver-list/component?name=BIOS%2FUEFI&id=5AC6A815-321D-440E-8833-B07A93E0428C
+
+
 
 _**Case Study Details and Caveats**_
 
@@ -229,69 +341,3 @@ support.
 
 16gb hd to start 
 add m2 or usb storage details
-
-limitations
-
-gaming - no
-multi tasking - stream content AND what? - be serious
-
-
-Go further - Homelab?
-
-Planning for shared resources
-- Laptop/Micro PC common RAM 
-- Laptop SSDs
-
-Network management
-Media Services
-Storage Services
-JBOC cluster compute? 
-
-_**Appendix C.1**_
-
-**Special Consideration **
-
-Virtual / Remote
-
-- virtual box - host multiple on powerful
-- qemu - tbd
-
-- rdp - Tested current 
-- vnc - tbd
-- obs/vlc? - Free the DESKTOP video stream
-
-Appendix C.2
-
-Projects
-
-- vs World - 2025 init tbd - just a calendar app
-- Basic Boxes - 202412 -> current
-- GhostBSDCon 2025 -  202409 -> current
-- sRPM - 2024 - student capstone sponsor
-
-
-_**Appendix B.1**_
-
-**Benchmarking**
-
-- Phoronix Test Suite - Benchmark Phoronix Self Test
-
-
-_**Apprendix A.1**_
-
-**Notes along the way - What we learned**
-
-- Live
-- 
-Quick stop at Live Environments, Live Installers, and the challenge of experiencing a Live OS on Minimum Requirements.
-
-1. Please approach a Live Environment with 200% Minimum Requirement RAM
-2. See #1
-
-(Graphic to explain system resources in a RAMDRIVE driven Live Environment)
-
-_**Appendix A.2**_
-
-https://pcsupport.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-m-series-desktops/thinkcentre-m92p/3209/downloads/driver-list/component?name=BIOS%2FUEFI&id=5AC6A815-321D-440E-8833-B07A93E0428C
-
-
