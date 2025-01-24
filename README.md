@@ -8,42 +8,102 @@ Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provi
 
 As technology enrolls itself as the ever-present side-kick to humanity I question to the value of resource heavy entertainment utilization. 
 
+Can 5++, 10+, 15, 20-, 30-- year old technology support personal, family, and/or business connectivity goals in the encrypted and media rich data stream?
+
+Approach
+
+the browser era
+
+When did display texhnology start to handle 720p smoothly?
+
+
+
+
+
+
+
+
+
+
+Current Household System
+
+google - testing - Prototype for Vsw
+icloud - current Family with Notes
+outlook - for Work 
+
+third party
+
+-Thunderbird / Firefox
+-Chrome flavour (mad max reference) :)
+
 _**What are valued use cases?**_
 
+
+?
 
 
 
 **Sources - How and Where and Why**
 
+but not in that order 
+
+Where
+
 _**Social Markets - Facebook Marketplace, Kijiji, Craigslist, eBay**_
 
+Why
+
 _Seller Profiles_
+
 - A - Downsizing - Formerly successful in technical field
 - B - Post School Technical - Recently successful
 - C.1 - Liquidation / Estate / Uninformed Seller - business close out / estate sale / landlords / third party
 - C.2 - Broken Batches and Bundle Bargains
 - D - Lost and Found - Questionable Ownership - Stolen - dont have pw!
 
+How
+
 _**Free Technology**_
+
 - time = money
-- money = money
 
 - $50 = 2 hours
+
+Source, substance, cite:
 
 Average Income for North America
 
 - Canda - https://albertaworker.ca/news/alberta-had-largest-real-wages-cut-in-canada
 - Canada & US - https://countryeconomy.com/countries/compare/canada/usa?sc=XEAA
 
+
+
 Average cost of a dinner out? $50+	
 
-_**Peripherals**_
 
-Anything to HDMI 
+
+
+
+
+
+
+_**Peripherals & e-waste**_
+
+Anything to/with/for HDMI - because TVs
 
 - dp-hdmi $10-15
 - vga-hdmi, dvi-hdmi $10
 - vga + usb audio to hdmi! $20 
+
+always accept, reasonable amounts of:
+- could you use ...
+- can yout take ....
+- will ypu get rid of ..
+
+
+
+
+
 
 _**Case Studies**_
 
@@ -191,8 +251,23 @@ _**Appendix C.1**_
 
 **Special Consideration **
 
-- virtual box
-- qemu
+Virtual / Remote
+
+- virtual box - host multiple on powerful
+- qemu - tbd
+
+- rdp - Tested current 
+- vnc - tbd
+- obs/vlc? - Free the DESKTOP video stream
+
+Appendix C.2
+
+Projects
+
+- vs World - 2025 init tbd - just a calendar app
+- Basic Boxes - 202412 -> current
+- GhostBSDCon 2025 -  202409 -> current
+- sRPM - 2024 - student capstone sponsor
 
 
 _**Appendix B.1**_
