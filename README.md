@@ -47,16 +47,16 @@ limiting factors
 _**What are some valued use cases user/application profiles?**_
 
 
-Desktop - Office/Media/Tech
-Dewktop Dev - Full/Dev
-Desktop TV - Web
-Desktop Student - Office
-Desktop Family - Web/Office/Media
+- Desktop - Office/Media/Tech
+- Dewktop Dev - Full/Dev
+- Desktop TV - Web
+- Desktop Student - Office
+- Desktop Family - Web/Office/Media
 
-Business - Office
-Business Media - Office/Media
-Business Dev - Full/Dev
-Business Service - Core/_Service_
+- Business - Office
+- Business Media - Office/Media
+- Business Dev - Full/Dev
+- Business Service - Core/_Service_
 
 
 
