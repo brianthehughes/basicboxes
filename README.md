@@ -2,9 +2,14 @@
 
 1. Title Slide - **Basic Boxes**
 
-_Photo - array of equipment_
+_Photo slideshow - stack of desktop equipment, implementations_
 
-
+transititions
+- stack close up
+- kitchen aio
+- office multi workststion
+- garage r&d
+- laptop
 
 
 2. Introduction Slide - **What, Why, and How**
@@ -15,9 +20,7 @@ Basic Boxes aims to explore the bottom of GhostBSD System Requirements and provi
 
 Why does this matter? 
 
-To me.. As technology enrolls itself as the ever-present side-kick to humanity I question to the value of resource heavy entertainment utilization. 
-
-Why does this matter generally?
+Technology is now an ever-present side-kick to humanity.
 
 Can 5++, 10+, 15, 20-, 30-- year old technology support personal, family, and/or business connectivity goals in the encrypted and media rich data stream?
 
@@ -30,9 +33,10 @@ Approach
 
 the browser era
 
-When did display texhnology start to handle 720p smoothly?
+limiting factors
 
-The decoding video / streaming / BlockBuster inflection.
+- When did display texhnology start to handle 720p smoothly?
+- The decoding video / streaming inflection.
 
 
 
@@ -40,39 +44,25 @@ The decoding video / streaming / BlockBuster inflection.
 5. 
 
 
-_**What are valued use cases?**_
+_**What are some valued use cases user/application profiles?**_
 
 
-?
+Desktop - Office/Media/Tech
+Dewktop Dev - Full/Dev
+Desktop TV - Web
+Desktop Student - Office
+Desktop Family - Web/Office/Media
 
-
-
+Business - Office
+Business Media - Office/Media
+Business Dev - Full/Dev
+Business Service - Core/_Service_
 
 
 
 
 6. Connectivity Profles - Person, Family, Business Actors
 
-
-
-**Personal**
--chrome/firefox
-google
-- personal - world connectivity - gSuite(s), iCloud
-icloud
-- personal - world connectivity - iCloud
-microsoft
-- for work because
-- edge
-
-Family
--chrome/firefox
-icloud
-- shared notes, location
-google
-- family calendar, tasks, meet 
-
-Business Actors
 
 
 
@@ -145,11 +135,25 @@ _**Case Studies**_
 
 **Desktop Micro**
 - 9.1. *Dell Optiplex 9020* - $40 ($120/3) - https://bsd-hardware.info/?probe=1915fdf658 - Gfx/Snd/Wi
+
+ghostbsd dev, ether, arc, ion - d501
+ghostbsd ghost - d502
+FreeBSD 14.1R - d503
+
 - 9.2 *HP t620* - $30- https://bsd-hardware.info/?probe=7acfb028cc - Gfx/Snd
+
+ghostbsd-xfce - web - h501
 
 **Desktop Mid-Full**
 - 9.3. *Dell Optplex 780* - $7 - https://bsd-hardware.info/?probe=a0adaade37 - Gfx/Snd
+
+ghostbsd - ether - d505
+
+
 - 9.4. *ThinCentre M Series* - $7
+
+nomad bsd - settler install
+
 - https://pcsupport.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-m-series-desktops/thinkcentre-m92p/3209/downloads/driver-list/component?name=BIOS%2FUEFI&id=5AC6A815-321D-440E-8833-B07A93E0428C
 - 9.5. *_Ghost Custom_* - free - https://bsd-hardware.info/?probe=2b452affdf - Gfx
 
